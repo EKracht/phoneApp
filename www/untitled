@@ -1,0 +1,17 @@
+<!--         <div class="app">
+            <h1>PhoneGap</h1>
+            <div id="deviceready" class="blink">
+                <p class="event listening">Connecting to Device</p>
+                <p class="event received">Device is Ready Ethan</p>
+            </div>
+            <div>
+                <button id="vibe">Vibe</button>
+                <button id="location">Location</button>
+            </div>
+            <img id="kitty" src="https://pbs.twimg.com/profile_images/378800000532546226/dbe5f0727b69487016ffd67a6689e75a_400x400.jpeg" alt="">
+        </div>
+ -->
+
+         // <script type="text/javascript">
+        //     app.initialize();
+        // </script>
